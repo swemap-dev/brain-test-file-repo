@@ -1,4 +1,4 @@
-from src.utils import f4
+from utils import f4
 
 def run():
     return f4()

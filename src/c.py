@@ -1,4 +1,4 @@
-from src.utils import f3
+from utils import f3
 
 def run():
     return f3()

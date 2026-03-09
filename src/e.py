@@ -1,4 +1,4 @@
-from src.utils import f5
+from utils import f5
 
 def run():
     return f5()
